@@ -25,7 +25,3 @@ The repository also provides **Python scripts** to clean, fill, convert, and ana
 2. Use scripts in `scripts/data_fill/` to populate missing data.  
 3. Use scripts in `scripts/data_conversion/` to convert currencies or standardize values.  
 4. Use scripts in `scripts/data_analysis/` to conduct analyses and generate outputs.  
-
-## License
-
-The database and associated materials are available under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
