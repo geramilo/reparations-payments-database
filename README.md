@@ -7,7 +7,7 @@ See: https://www.reparationsresearch.eu
 The database focuses on **financial reparations** and includes information on:
 
 - Payors and recipients
-- Amount pledged and paid
+- Amount pledged and paid (where available)
 - Year of agreement
 - Year of payment(s)
 - Type of reparation
