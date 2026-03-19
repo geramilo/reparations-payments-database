@@ -14,19 +14,44 @@ The database focuses on **financial reparations** and includes information on:
 
 The repository also provides **Python scripts** to clean, fill, convert, and analyze the data. Documentation and methodology notes are included to ensure **transparency, reproducibility, and usability**.
 
-## Repository Structure
+## Repository Structure and Usage
 
 Follow these steps to navigate and use the repository:
 
-	1.	Raw '01_data' 
+`01_data`
+
+This folder contains:
+
+	•	The main Reparations Payments Dataset (RPD) in Excel format
+	•	External datasets used for data conversion and analysis (e.g., exchange rates)
+
+Users can download these files to reproduce the full workflow or conduct independent analyses.
+
+`02_scripts`
+
+This folder is organized into three subfolders:
+
+	•	data_analysis/
+Scripts used to analyze the dataset and generate outputs (e.g., descriptive statistics, tables, or figures).
+	•	data_auto_fill/
+Scripts designed to automatically populate missing or incomplete fields in the RPD using predefined rules or external data sources.
+	•	data_conversion/
+Scripts used to standardize data, including currency conversions and value transformations.
+
+All scripts in this folder include introductory comments explaining:
+
+	•	Their purpose
+	•	Required inputs
+	•	Main instructions for use
+
 - `data/` – Raw and external datasets  
 - `scripts/` – Python scripts for filling data, converting currencies, and data analysis  
 - `docs/` – Methodology and documentation  
 - `references/` – Bibliographic sources  
 
-## Usage
+`03_docs`
 
-1. Add your raw data files in `data/raw/`.  
-2. Use scripts in `scripts/data_fill/` to populate missing data.  
-3. Use scripts in `scripts/data_conversion/` to convert currencies or standardize values.  
-4. Use scripts in `scripts/data_analysis/` to conduct analyses and generate outputs.  
+This folder contains supporting materials to help users understand and work with the dataset, including:
+	•	A codebook describing variables, definitions, and coding decisions
+
+⸻
