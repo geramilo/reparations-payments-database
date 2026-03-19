@@ -25,10 +25,9 @@ import openpyxl
 from urllib.parse import urlparse
 from datetime import datetime
 
-# File paths
-desktop = os.path.expanduser("~/Desktop")
-input_file = os.path.join(desktop, "database", "RPD (V1).xlsx")
-output_file = os.path.join(desktop, "database", "RPD (V1) - updated.xlsx")
+# === Config ===
+input_file = "RPD (V1).xlsx"          # Input file (same folder as script)
+output_file = "RPD (V1) - updated.xlsx"  # Output file
 
 # Load workbook
 wb = openpyxl.load_workbook(input_file)
