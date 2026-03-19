@@ -18,14 +18,11 @@ The repository also provides **Python scripts** to clean, fill, convert, and ana
 
 Follow these steps to navigate and use the repository:
 
-`01_data`
-
-This folder contains:
-
-	•	The main Reparations Payments Dataset (RPD) in Excel format
-	•	External datasets used for data conversion and analysis (e.g., exchange rates)
-
-Users can download these files to reproduce the full workflow or conduct independent analyses.
+	•`01_data`
+		This folder contains:
+		•	The main Reparations Payments Dataset (RPD) in Excel format
+		•	External datasets used for data conversion and analysis (e.g., exchange rates)
+		Users can download these files to reproduce the full workflow or conduct independent analyses.
 
 `02_scripts`
 
