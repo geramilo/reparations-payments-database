@@ -18,7 +18,8 @@ The repository also provides **Python scripts** to clean, fill, convert, and ana
 
 Follow these steps to navigate and use the repository:
 
-	•`01_data`
+`01_data`
+
 		This folder contains:
 		•	The main Reparations Payments Dataset (RPD) in Excel format
 		•	External datasets used for data conversion and analysis (e.g., exchange rates)
@@ -26,20 +27,14 @@ Follow these steps to navigate and use the repository:
 
 `02_scripts`
 
-This folder is organized into three subfolders:
-
-	•	data_analysis/
-Scripts used to analyze the dataset and generate outputs (e.g., descriptive statistics, tables, or figures).
-	•	data_auto_fill/
-Scripts designed to automatically populate missing or incomplete fields in the RPD using predefined rules or external data sources.
-	•	data_conversion/
-Scripts used to standardize data, including currency conversions and value transformations.
-
-All scripts in this folder include introductory comments explaining:
-
-	•	Their purpose
-	•	Required inputs
-	•	Main instructions for use
+		This folder is organized into three subfolders:
+		•	data_analysis/ : Scripts used to analyze the dataset and generate outputs (e.g., descriptive statistics, tables, or figures).
+		•	data_auto_fill/ : Scripts designed to automatically populate missing or incomplete fields in the RPD using predefined rules or external data sources.
+		•	data_conversion/ : Scripts used to standardize data, including currency conversions and value transformations.
+		All scripts in this folder include introductory comments explaining:
+				•	Their purpose
+				•	Required inputs
+				•	Main instructions for use
 
 - `data/` – Raw and external datasets  
 - `scripts/` – Python scripts for filling data, converting currencies, and data analysis  
