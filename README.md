@@ -36,14 +36,9 @@ Follow these steps to navigate and use the repository:
 				•	Required inputs
 				•	Main instructions for use
 
-- `data/` – Raw and external datasets  
-- `scripts/` – Python scripts for filling data, converting currencies, and data analysis  
-- `docs/` – Methodology and documentation  
-- `references/` – Bibliographic sources  
-
 `03_docs`
 
-This folder contains supporting materials to help users understand and work with the dataset, including:
-	•	A codebook describing variables, definitions, and coding decisions
+		This folder contains supporting materials to help users understand and work with the dataset, including:
+		•	A codebook describing variables, definitions, and coding decisions
 
 ⸻
