@@ -18,7 +18,7 @@ The repository also provides **Python scripts** to clean, fill, convert, and ana
 
 This section outlines the repository structure, its contents, and provides guidance on how to use it.
 
-(`01_data`)
+`01_data`
 
 		This folder contains:
 		•	The main Reparations Payments Dataset (RPD) in Excel format
