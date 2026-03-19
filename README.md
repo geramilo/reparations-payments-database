@@ -40,5 +40,3 @@ This section outlines the repository structure, its contents, and provides guida
 
 		This folder contains supporting materials to help users understand and work with the dataset, including:
 		•	A codebook describing variables, definitions, and coding decisions
-
-⸻
