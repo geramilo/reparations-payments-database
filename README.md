@@ -16,6 +16,9 @@ The repository also provides **Python scripts** to clean, fill, convert, and ana
 
 ## Repository Structure
 
+Follow these steps to navigate and use the repository:
+
+	1.	Raw '01_data' 
 - `data/` – Raw and external datasets  
 - `scripts/` – Python scripts for filling data, converting currencies, and data analysis  
 - `docs/` – Methodology and documentation  
