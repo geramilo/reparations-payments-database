@@ -1,18 +1,19 @@
 # Reparations Payments Database (RPD)
 
-This repository contains an **open-access dataset** and the scripts used to build and analyze global reparations programs from World War II to 2024. It is part of the **REPAIR Project** at the Department of Anthropology of the University of Amsterdam.
+This repository contains an **Reparations Payments Database (RPD)**, an open-access dataset of reparations payments committed and disbursed between 1945 and 2024. The dataset has been compiled by the REPAIR team and is accompanied by scripts and documentation used to build, clean, and analyze data on global reparations programs, enabling replication and further research.
 
-See: https://www.reparationsresearch.eu
+The RPD is part of the REPAIR Project at the Department of Anthropology, University of Amsterdam.
+More information: https://www.reparationsresearch.eu
 
 The database focuses on **financial reparations** and includes information on:
 
 - Payors and recipients
-- Amount pledged and paid (where available)
+- Amounts pledged and, where available, paid
 - Year of agreement
-- Year of payment(s)
-- Type of reparation
+- Year of payments
+- Type of reparations
 
-The repository also provides **Python scripts** to clean, fill, convert, and analyze the data. Documentation and methodology notes are included to ensure **transparency, reproducibility, and usability**.
+
 
 ## Repository Structure and Usage
 
@@ -23,7 +24,7 @@ This section outlines the repository structure, its contents, and provides guida
 		This folder contains:
 		•	The main Reparations Payments Dataset (RPD) in Excel format
 		•	External datasets used for data conversion and analysis (e.g., exchange rates)
-		Users can download these files to reproduce the full workflow or conduct independent analyses.
+		Users can download these files to reproduce the workflow or conduct independent analyses.
 
 `02_scripts`
 
@@ -39,4 +40,4 @@ This section outlines the repository structure, its contents, and provides guida
 `03_docs`
 
 		This folder contains supporting materials to help users understand and work with the dataset, including:
-		•	A codebook describing variables, definitions, and coding decisions
+		•	A codebook detailing variables, definitions, and coding decisions used in the RPD
