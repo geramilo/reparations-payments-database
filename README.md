@@ -43,5 +43,6 @@ All scripts in this folder include introductory comments explaining:
 
 ### `03_docs`
 
-This folder contains supporting materials to help users understand and work with the dataset, including:
-- A codebook detailing variables, definitions, and coding decisions used in the RPD
+This folder contains supporting materials to help users understand and work with the dataset, as well as additional documents complementing the RPD, including:
+- A codebook detailing variables, definitions, and coding decisions used in the RPD.
+- A folder of source snapshots for materials that could not be archived elsewhere.
