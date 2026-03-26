@@ -23,9 +23,8 @@ This section outlines the repository structure, its contents, and provides guida
 ### `01_data`
 
 This folder contains:
-- The main Reparations Payments Dataset (RPD) in Excel format
-- External datasets used for data conversion and analysis (e.g., exchange rates)
-
+- external/: External datasets used for data conversion and analysis (e.g., exchange rates)
+- raw/: The main Reparations Payments Dataset (RPD) in Excel format
 Users can download these files to reproduce the workflow or conduct independent analyses.
 
 
