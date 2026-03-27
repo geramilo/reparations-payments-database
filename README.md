@@ -2,7 +2,7 @@
 
 This repository contains the **Reparations Payments Database (RPD)**, an open-access dataset of reparations payments committed and disbursed between 1945 and 2024. The dataset has been compiled by the REPAIR team at the Anthropology Department of the University of Amsterdam and is accompanied by scripts and documentation used to build, clean, and analyze data on global reparations payments, enabling replication and further research.
 
-The database focuses on ** reparations payments** and includes information on:
+The database focuses on **reparations payments** and includes information on:
 
 - Payors and recipients
 - Amounts pledged and - where available - paid
